@@ -5,9 +5,11 @@
       <p>DevConnect - Watch Video Tuorial of the Project</p>
     </a>
     <a href="https://www.loom.com/share/b8a621f4431d440a83df47f3473ec139">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b8a621f4431d440a83df47f3473ec139-with-play.gif">
+      <img style="max-width:600px;" src="https://cdn.loom.com/sessions/thumbnails/b8a621f4431d440a83df47f3473ec139-with-play.gif">
     </a>
   </div>
+
+  
 
 Explore, discuss, and innovate with developers globally on a fully decentralized discussion platform.
 

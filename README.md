@@ -1,5 +1,14 @@
 # DevConnect : Decentralized Developer Network
 
+<div>
+    <a href="https://www.loom.com/share/b8a621f4431d440a83df47f3473ec139">
+      <p>DevConnect - Watch Video Tuorial of the Project</p>
+    </a>
+    <a href="https://www.loom.com/share/b8a621f4431d440a83df47f3473ec139">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b8a621f4431d440a83df47f3473ec139-with-play.gif">
+    </a>
+  </div>
+
 Explore, discuss, and innovate with developers globally on a fully decentralized discussion platform.
 
 ## DevConnect Overview
@@ -61,16 +70,6 @@ Advancement of Decentralized Projects:
 
 - Ensure the scalability and security of decentralized projects through blockchain technology, promoting the development of robust and secure applications.
 
-
-
-<div>
-    <a href="https://www.loom.com/share/b8a621f4431d440a83df47f3473ec139">
-      <p>DevConnect - Watch Video Tuorial of the Project</p>
-    </a>
-    <a href="https://www.loom.com/share/b8a621f4431d440a83df47f3473ec139">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b8a621f4431d440a83df47f3473ec139-with-play.gif">
-    </a>
-  </div>
 
 ## Why Use DevConnect?
 - Enhanced Collaboration: Connect with a global network of developers for knowledge sharing and collaborative problem-solving.

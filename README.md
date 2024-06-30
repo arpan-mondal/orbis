@@ -61,7 +61,10 @@ Advancement of Decentralized Projects:
 
 - Ensure the scalability and security of decentralized projects through blockchain technology, promoting the development of robust and secure applications.
 
+''
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/b8a621f4431d440a83df47f3473ec139?sid=cd3c8512-e5f0-4681-ad89-322604e8fa43" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+''
+
 
 ## Why Use DevConnect?
 - Enhanced Collaboration: Connect with a global network of developers for knowledge sharing and collaborative problem-solving.
